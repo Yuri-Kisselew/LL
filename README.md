@@ -1,4 +1,4 @@
-# ll
+# LL
 
 Beautifully paints the output of the ls -lh
 

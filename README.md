@@ -1,6 +1,6 @@
 # LL
 
-Beautifully paints the output of the ls -lh
+Beautifully paints the output of the `ls -lh`
 
 Features:
 
